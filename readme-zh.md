@@ -2,6 +2,9 @@
 
 # RedisShake Migration
 
+[![最近提交](https://img.shields.io/github/last-commit/zhiangzq126/redis-shake-migration/main)](https://github.com/zhiangzq126/redis-shake-migration/commits/main/)
+[![GitHub 问题](https://img.shields.io/github/issues/zhiangzq126/redis-shake-migration)](https://github.com/zhiangzq126/redis-shake-migration/issues)
+
 用于规划和管理 RedisShake 数据迁移任务的 Agent 技能。
 可从 Excel 表格、文本描述或逐项问答中整理迁移信息，生成 `shake.toml`，
 并指导 Linux 环境下的部署、启停、监控与故障排查。

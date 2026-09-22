@@ -2,6 +2,9 @@
 
 # RedisShake Migration
 
+[![Last commit](https://img.shields.io/github/last-commit/zhiangzq126/redis-shake-migration/main)](https://github.com/zhiangzq126/redis-shake-migration/commits/main/)
+[![GitHub issues](https://img.shields.io/github/issues/zhiangzq126/redis-shake-migration)](https://github.com/zhiangzq126/redis-shake-migration/issues)
+
 An Agent skill for planning and managing RedisShake migration tasks.
 It turns Excel tables, text descriptions, or guided answers into `shake.toml`,
 then guides deployment, start/stop, monitoring, and troubleshooting on Linux.
